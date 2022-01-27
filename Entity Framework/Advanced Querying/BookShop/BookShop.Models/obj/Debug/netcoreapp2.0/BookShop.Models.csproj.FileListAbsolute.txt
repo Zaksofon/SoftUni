@@ -1,0 +1,10 @@
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.deps.json
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csproj.AssemblyReference.cache
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfo.cs
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Entity Framework\Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.pdb

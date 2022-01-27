@@ -1,0 +1,13 @@
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.exe
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.deps.json
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.runtimeconfig.json
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp3.1\06. Animals.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.AssemblyInfo.cs
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp3.1\06. Animals.genruntimeconfig.cache

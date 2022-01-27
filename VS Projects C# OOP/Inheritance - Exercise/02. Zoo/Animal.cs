@@ -2,9 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _02._Zoo
+namespace Zoo
 {
-    class Animal
+    public class Animal
     {
+        public string Name { get; set; }
+
+        public Animal(string name)
+        {
+            Name = name;
+        }
     }
 }

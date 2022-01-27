@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\6. Supermarket\bin\Debug\_6.Supermarket.exe.config
+D:\VS Projects C# Advanced\6. Supermarket\bin\Debug\_6.Supermarket.exe
+D:\VS Projects C# Advanced\6. Supermarket\bin\Debug\_6.Supermarket.pdb
+D:\VS Projects C# Advanced\6. Supermarket\obj\Debug\6. Supermarket.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\6. Supermarket\obj\Debug\6. Supermarket.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\6. Supermarket\obj\Debug\_6.Supermarket.exe
+D:\VS Projects C# Advanced\6. Supermarket\obj\Debug\_6.Supermarket.pdb

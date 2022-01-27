@@ -1,0 +1,6 @@
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\bin\Debug\_08.Balanced_Parenthesis_2.exe.config
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\bin\Debug\_08.Balanced_Parenthesis_2.exe
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\bin\Debug\_08.Balanced_Parenthesis_2.pdb
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\obj\Debug\08. Balanced Parenthesis 2.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\obj\Debug\_08.Balanced_Parenthesis_2.exe
+D:\VS Projects C# Advanced\08. Balanced Parenthesis 2\obj\Debug\_08.Balanced_Parenthesis_2.pdb

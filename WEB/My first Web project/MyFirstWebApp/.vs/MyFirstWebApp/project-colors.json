@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2caecc7d-911e-4866-b95b-f3b47bab0cf4": {
+      "ProjectGuid": "2caecc7d-911e-4866-b95b-f3b47bab0cf4",
+      "DisplayName": "MyWebServer.Server",
+      "ColorIndex": 0
+    },
+    "8b54807f-5665-4902-8005-d173774f34df": {
+      "ProjectGuid": "8b54807f-5665-4902-8005-d173774f34df",
+      "DisplayName": "MyFirstWebApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

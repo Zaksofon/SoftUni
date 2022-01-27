@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\bin\Debug\_05.Snake_Moves.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\bin\Debug\_05.Snake_Moves.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\bin\Debug\_05.Snake_Moves.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\obj\Debug\05. Snake Moves.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\obj\Debug\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\obj\Debug\_05.Snake_Moves.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\05. Snake Moves\obj\Debug\_05.Snake_Moves.pdb

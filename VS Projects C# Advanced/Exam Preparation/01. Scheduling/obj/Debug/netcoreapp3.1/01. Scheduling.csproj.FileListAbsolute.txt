@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+D:\VS Projects C# Advanced\Exam Preparation\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.exe
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.dll
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\01.Warm Winter.pdb
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.dll
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.pdb
+D:\VS Projects C# Advanced\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\01.Warm Winter.genruntimeconfig.cache

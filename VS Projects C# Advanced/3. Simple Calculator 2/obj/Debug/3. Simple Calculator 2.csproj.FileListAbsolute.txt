@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\3. Simple Calculator 2\bin\Debug\_3.Simple_Calculator_2.exe.config
+D:\VS Projects C# Advanced\3. Simple Calculator 2\bin\Debug\_3.Simple_Calculator_2.exe
+D:\VS Projects C# Advanced\3. Simple Calculator 2\bin\Debug\_3.Simple_Calculator_2.pdb
+D:\VS Projects C# Advanced\3. Simple Calculator 2\obj\Debug\3. Simple Calculator 2.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\3. Simple Calculator 2\obj\Debug\3. Simple Calculator 2.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\3. Simple Calculator 2\obj\Debug\_3.Simple_Calculator_2.exe
+D:\VS Projects C# Advanced\3. Simple Calculator 2\obj\Debug\_3.Simple_Calculator_2.pdb

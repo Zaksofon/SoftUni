@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\05. Count Symbols\obj\Debug\05. Count Symbols.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\05. Count Symbols\obj\Debug\05. Count Symbols.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\05. Count Symbols\bin\Debug\_05.Count_Symbols.exe.config
+D:\VS Projects C# Advanced\05. Count Symbols\bin\Debug\_05.Count_Symbols.exe
+D:\VS Projects C# Advanced\05. Count Symbols\bin\Debug\_05.Count_Symbols.pdb
+D:\VS Projects C# Advanced\05. Count Symbols\obj\Debug\_05.Count_Symbols.exe
+D:\VS Projects C# Advanced\05. Count Symbols\obj\Debug\_05.Count_Symbols.pdb

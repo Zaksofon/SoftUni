@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _02._Zoo
+namespace Zoo
 {
-    class Lizard
+    public class Lizard : Reptile
     {
+        public Lizard(string name) : base(name)
+        {
+        }
     }
 }

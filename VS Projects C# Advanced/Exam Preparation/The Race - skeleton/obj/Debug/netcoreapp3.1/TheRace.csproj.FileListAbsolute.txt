@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+D:\VS Projects C# Advanced\Exam Preparation\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

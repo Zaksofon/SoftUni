@@ -1,0 +1,12 @@
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.AssemblyInfo.cs
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.exe
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.deps.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.runtimeconfig.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\bin\Debug\netcoreapp3.1\01. Person.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\Inheritance - Exercise\obj\Debug\netcoreapp3.1\01. Person.genruntimeconfig.cache

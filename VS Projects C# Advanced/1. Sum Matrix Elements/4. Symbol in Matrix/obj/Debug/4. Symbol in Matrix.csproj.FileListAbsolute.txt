@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\_4.Symbol_in_Matrix.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\_4.Symbol_in_Matrix.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\_4.Symbol_in_Matrix.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\4. Symbol in Matrix.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\_4.Symbol_in_Matrix.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\_4.Symbol_in_Matrix.pdb

@@ -1,0 +1,12 @@
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\WEB\My first Web project\My First Web App 2\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb

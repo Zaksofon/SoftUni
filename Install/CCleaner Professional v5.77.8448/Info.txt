@@ -1,0 +1,23 @@
+﻿======================================================================================
+CCleaner Professional v5.77.8448
+======================================================================================
+
+Probably the most cleaner globally with over 1 billion downloads since its launch in 2003. Piriform’s CCleaner is a quick and easy to use program which makes your computer faster, more secure and more reliable. CCleaner removes cookies, temporary files and various other unused data that clogs up your operating system. This frees up valuable hard disk space allowing your system to run faster. Removing this data also protects your anonymity meaning you can browse online more securely. The built in Registry Cleaner fixes errors and broken settings to make your computer more stable. The simple, intuitive UI anrapid but powerful cleaning make CCleaner a favourite among novices and techies alike. Professional, Network, Business and Technician Editions of CCleaner are also available for serious users.
+
+It can clean:
+
+Internet Explorer: Temporary files, history, cookies, super cookies, Autocomplete form history, index.dat files.
+Firefox: Temporary files, history, cookies, super cookies, download history, form history.
+Google Chrome: Temporary files, history, cookies, super cookies, download history, form history.
+Opera: Temporary files, history, cookies, super cookies, download history.
+Apple Safari: Temporary files, history, cookies, super cookies, form history.
+Other Supported Browsers: K-Meleon, Rockmelt, Flock, Google Chrome Canary, Chromium, SeaMonkey, Chrome Plus, SRWare Iron, Pale Moon, Phoenix, Netscape Navigator, Avant and Maxthon.
+Windows: Recycle Bin, Recent Documents, Temporary files, Log files, Clipboard, DNS Cache, Error Reporting, Memory Dumps, Jump Lists.
+Registry Cleaner: Advanced features to remove unused and old entries, including File Extensions, ActiveX Controls, ClassIDs, ProgIDs, Uninstallers, Shared DLLs, Fonts, Help Files, Application Paths, Icons, Invalid Shortcuts and more…
+Third-party applications: Removes temp files and recent file lists (MRUs) from many apps including Windows Media Player, eMule, Google Toolbar, Microsoft Office, Nero, Adobe Acrobat, WinRAR, WinAce, WinZip and many more…
+
+System Requirements:
+
+Windows 10, 8.1, 8, 7, Vista and XP. Including both 32-bit and 64-bit versions, but not RT tablet editions.
+
+Enjoy!

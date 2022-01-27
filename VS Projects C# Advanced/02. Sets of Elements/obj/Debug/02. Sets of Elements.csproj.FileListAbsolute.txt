@@ -1,0 +1,6 @@
+D:\VS Projects C# Advanced\02. Sets of Elements\bin\Debug\_02.Sets_of_Elements.exe.config
+D:\VS Projects C# Advanced\02. Sets of Elements\bin\Debug\_02.Sets_of_Elements.exe
+D:\VS Projects C# Advanced\02. Sets of Elements\bin\Debug\_02.Sets_of_Elements.pdb
+D:\VS Projects C# Advanced\02. Sets of Elements\obj\Debug\02. Sets of Elements.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\02. Sets of Elements\obj\Debug\_02.Sets_of_Elements.exe
+D:\VS Projects C# Advanced\02. Sets of Elements\obj\Debug\_02.Sets_of_Elements.pdb

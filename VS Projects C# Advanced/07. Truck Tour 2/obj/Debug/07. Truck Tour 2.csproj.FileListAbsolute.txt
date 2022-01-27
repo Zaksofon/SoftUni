@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\07. Truck Tour 2\bin\Debug\_07.Truck_Tour_2.exe.config
+D:\VS Projects C# Advanced\07. Truck Tour 2\bin\Debug\_07.Truck_Tour_2.exe
+D:\VS Projects C# Advanced\07. Truck Tour 2\bin\Debug\_07.Truck_Tour_2.pdb
+D:\VS Projects C# Advanced\07. Truck Tour 2\obj\Debug\07. Truck Tour 2.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\07. Truck Tour 2\obj\Debug\07. Truck Tour 2.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\07. Truck Tour 2\obj\Debug\_07.Truck_Tour_2.exe
+D:\VS Projects C# Advanced\07. Truck Tour 2\obj\Debug\_07.Truck_Tour_2.pdb

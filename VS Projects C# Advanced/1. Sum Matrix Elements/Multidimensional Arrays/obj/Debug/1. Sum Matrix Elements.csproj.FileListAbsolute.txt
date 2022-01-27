@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\obj\Debug\1. Sum Matrix Elements.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb

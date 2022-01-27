@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a05887e-3a7c-464e-9ffe-efd165f41a13": {
+      "ProjectGuid": "9a05887e-3a7c-464e-9ffe-efd165f41a13",
+      "DisplayName": "01.Vehicles",
+      "ColorIndex": 0
+    },
+    "d52d6587-e927-43bf-83a4-d207b891cf9a": {
+      "ProjectGuid": "d52d6587-e927-43bf-83a4-d207b891cf9a",
+      "DisplayName": "03.Raiding",
+      "ColorIndex": 1
+    },
+    "5f6c1c09-7669-425b-9231-7fb4c5255708": {
+      "ProjectGuid": "5f6c1c09-7669-425b-9231-7fb4c5255708",
+      "DisplayName": "02.VehiclesExtension",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

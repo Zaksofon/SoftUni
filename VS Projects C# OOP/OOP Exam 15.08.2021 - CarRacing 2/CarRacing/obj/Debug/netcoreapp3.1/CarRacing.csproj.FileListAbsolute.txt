@@ -1,0 +1,14 @@
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+D:\VS Projects C# OOP\OOP Exam 15.08.2021 - 2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

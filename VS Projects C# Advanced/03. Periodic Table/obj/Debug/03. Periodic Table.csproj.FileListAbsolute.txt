@@ -1,0 +1,6 @@
+D:\VS Projects C# Advanced\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+D:\VS Projects C# Advanced\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+D:\VS Projects C# Advanced\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+D:\VS Projects C# Advanced\03. Periodic Table\obj\Debug\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+D:\VS Projects C# Advanced\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb

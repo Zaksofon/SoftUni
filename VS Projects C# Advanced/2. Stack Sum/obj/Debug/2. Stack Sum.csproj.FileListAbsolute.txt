@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\2. Stack Sum\bin\Debug\_2.Stack_Sum.exe.config
+D:\VS Projects C# Advanced\2. Stack Sum\bin\Debug\_2.Stack_Sum.exe
+D:\VS Projects C# Advanced\2. Stack Sum\bin\Debug\_2.Stack_Sum.pdb
+D:\VS Projects C# Advanced\2. Stack Sum\obj\Debug\2. Stack Sum.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\2. Stack Sum\obj\Debug\2. Stack Sum.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\2. Stack Sum\obj\Debug\_2.Stack_Sum.exe
+D:\VS Projects C# Advanced\2. Stack Sum\obj\Debug\_2.Stack_Sum.pdb

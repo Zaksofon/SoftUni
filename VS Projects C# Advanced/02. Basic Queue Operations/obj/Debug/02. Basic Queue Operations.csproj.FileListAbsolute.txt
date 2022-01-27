@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\02. Basic Queue Operations\bin\Debug\_02.Basic_Queue_Operations.exe.config
+D:\VS Projects C# Advanced\02. Basic Queue Operations\bin\Debug\_02.Basic_Queue_Operations.exe
+D:\VS Projects C# Advanced\02. Basic Queue Operations\bin\Debug\_02.Basic_Queue_Operations.pdb
+D:\VS Projects C# Advanced\02. Basic Queue Operations\obj\Debug\02. Basic Queue Operations.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\02. Basic Queue Operations\obj\Debug\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\02. Basic Queue Operations\obj\Debug\_02.Basic_Queue_Operations.exe
+D:\VS Projects C# Advanced\02. Basic Queue Operations\obj\Debug\_02.Basic_Queue_Operations.pdb

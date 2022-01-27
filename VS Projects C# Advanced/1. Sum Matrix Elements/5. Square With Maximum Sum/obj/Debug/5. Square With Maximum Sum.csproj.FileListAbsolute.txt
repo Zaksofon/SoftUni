@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\obj\Debug\5. Square With Maximum Sum.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\obj\Debug\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\obj\Debug\_5.Square_With_Maximum_Sum.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\5. Square With Maximum Sum\obj\Debug\_5.Square_With_Maximum_Sum.pdb

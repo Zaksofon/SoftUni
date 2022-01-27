@@ -1,0 +1,13 @@
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.exe
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.deps.json
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.runtimeconfig.json
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\bin\Debug\netcoreapp3.1\04. Need for Speed.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.AssemblyInfo.cs
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\04. Need for Speed\obj\Debug\netcoreapp3.1\04. Need for Speed.genruntimeconfig.cache

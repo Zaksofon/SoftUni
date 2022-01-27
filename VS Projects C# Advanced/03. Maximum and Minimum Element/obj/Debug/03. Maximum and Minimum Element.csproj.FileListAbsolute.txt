@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.exe.config
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.exe
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.pdb
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\obj\Debug\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\obj\Debug\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\obj\Debug\_03.Maximum_and_Minimum_Element.exe
+D:\VS Projects C# Advanced\03. Maximum and Minimum Element\obj\Debug\_03.Maximum_and_Minimum_Element.pdb

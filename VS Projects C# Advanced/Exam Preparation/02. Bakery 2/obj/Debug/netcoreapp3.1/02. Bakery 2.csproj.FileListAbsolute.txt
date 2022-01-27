@@ -1,0 +1,12 @@
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.exe
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\bin\Debug\netcoreapp3.1\02. Bakery 2.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Bakery 2\obj\Debug\netcoreapp3.1\02. Bakery 2.genruntimeconfig.cache

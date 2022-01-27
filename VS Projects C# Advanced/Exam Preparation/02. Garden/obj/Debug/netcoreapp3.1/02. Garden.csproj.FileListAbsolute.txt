@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.exe
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.genruntimeconfig.cache

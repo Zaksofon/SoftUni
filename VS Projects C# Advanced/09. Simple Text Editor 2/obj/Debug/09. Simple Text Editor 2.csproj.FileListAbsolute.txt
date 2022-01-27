@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\bin\Debug\_09.Simple_Text_Editor_2.exe.config
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\bin\Debug\_09.Simple_Text_Editor_2.exe
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\bin\Debug\_09.Simple_Text_Editor_2.pdb
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\obj\Debug\09. Simple Text Editor 2.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\obj\Debug\09. Simple Text Editor 2.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\obj\Debug\_09.Simple_Text_Editor_2.exe
+D:\VS Projects C# Advanced\09. Simple Text Editor 2\obj\Debug\_09.Simple_Text_Editor_2.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\bin\Debug\_08.Bombs.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\bin\Debug\_08.Bombs.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\bin\Debug\_08.Bombs.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\obj\Debug\08. Bombs.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\obj\Debug\08. Bombs.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\obj\Debug\_08.Bombs.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\08. Bombs\obj\Debug\_08.Bombs.pdb

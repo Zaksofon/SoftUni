@@ -1,0 +1,13 @@
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\Христо\OneDrive - Software University (SoftUni)\Работен плот\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

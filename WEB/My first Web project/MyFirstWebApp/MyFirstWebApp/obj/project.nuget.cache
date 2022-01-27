@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtWi5kux9FZoRMbGUgcH9cMRBeS0VTaWJsbDq0+xswf36CSJ0zAswrmUdwWbv5ekJrUn5L9ipaGvrhFhREEqFA==",
+  "success": true,
+  "projectFilePath": "D:\\WEB\\My first Web project\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

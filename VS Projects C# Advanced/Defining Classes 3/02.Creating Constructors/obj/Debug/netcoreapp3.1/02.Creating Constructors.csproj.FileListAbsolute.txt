@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.exe
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.deps.json
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.runtimeconfig.json
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.dll
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\bin\Debug\netcoreapp3.1\02.Creating Constructors.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.dll
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\02.Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.genruntimeconfig.cache

@@ -1,0 +1,181 @@
+﻿
+using OnlineShop.Common.Constants;
+using OnlineShop.Models.Products;
+using OnlineShop.Models.Products.Components;
+using OnlineShop.Models.Products.Computers;
+using OnlineShop.Models.Products.Peripherals;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace OnlineShop.Core
+{
+    public class Controller : IController
+    {
+        private  readonly List<IComputer> computers;
+        private readonly List<IComponent> components;
+        private readonly List<IPeripheral> peripherals;
+
+        public Controller()
+        {
+            computers = new List<IComputer>();
+            components = new List<IComponent>();
+            peripherals = new List<IPeripheral>();
+        }
+
+        public string AddComputer(string computerType, int id, string manufacturer, string model, decimal price)
+        {
+            if (computers.Any(x => x.Id == id))
+            {
+                throw new ArgumentException(ExceptionMessages.ExistingComputerId);
+            }
+
+            switch (computerType)
+            {
+                case "DesktopComputer": computers.Add(new DesktopComputer(id, manufacturer, model, price)); break;
+
+                case "Laptop": computers.Add(new Laptop(id, manufacturer, model, price)); break;
+
+                default: throw new ArgumentException(ExceptionMessages.InvalidComputerType);
+            }
+            return string.Format(SuccessMessages.AddedComputer, id);
+        }
+
+        public string AddPeripheral(int computerId, int id, string peripheralType, string manufacturer, string model, decimal price,
+            double overallPerformance, string connectionType)
+        {
+            IPeripheral peripheral = null;
+
+            DoesComputerExists(computerId);
+
+            if (peripherals.Any(x => x.Id == id))
+            {
+                throw new ArgumentException(ExceptionMessages.ExistingPeripheralId);
+            }
+
+            switch (peripheralType)
+            {
+                case "Headset":
+                    peripheral = new Headset(id, manufacturer, model, price, overallPerformance, connectionType); break;
+
+                case "Keyboard":
+                    peripheral = new Keyboard(id, manufacturer, model, price, overallPerformance, connectionType); break;
+
+                case "Monitor":
+                    peripheral = new Monitor(id, manufacturer, model, price, overallPerformance, connectionType); break;
+
+                case "Mouse":
+                    peripheral = new Mouse(id, manufacturer, model, price, overallPerformance, connectionType); break;
+
+                default: return ExceptionMessages.InvalidPeripheralType;
+            }
+
+            computers.FirstOrDefault(x => x.Id == computerId)?.AddPeripheral(peripheral);
+            peripherals.Add(peripheral);
+            return string.Format(SuccessMessages.AddedPeripheral, peripheralType, id, computerId);
+        }
+
+        public string RemovePeripheral(string peripheralType, int computerId)
+        {
+            DoesComputerExists(computerId);
+
+                var peripheral = peripherals.FirstOrDefault(x => x.GetType().Name == peripheralType);
+                computers.FirstOrDefault(x => x.Id == computerId)?.RemovePeripheral(peripheralType);
+                peripherals.Remove(peripheral);
+                
+            return string.Format(SuccessMessages.RemovedPeripheral, peripheralType, peripheral.Id);
+        }
+
+        public string AddComponent(int computerId, int id, string componentType, string manufacturer, string model, decimal price,
+            double overallPerformance, int generation)
+        {
+            DoesComputerExists(computerId);
+
+            IComponent component = null;
+
+            if (components.Any(x => x.Id == id))
+            {
+                throw new ArgumentException(ExceptionMessages.ExistingComponentId);
+            }
+
+            switch (componentType)
+            {
+                case "CentralProcessingUnit":
+                    component = new CentralProcessingUnit(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                case "Motherboard":
+                    component = new Motherboard(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                case "PowerSupply":
+                    component = new PowerSupply(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                case "RandomAccessMemory":
+                    component = new RandomAccessMemory(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                case "SolidStateDrive":
+                    component = new SolidStateDrive(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                case "VideoCard":
+                    component = new VideoCard(id, manufacturer, model, price, overallPerformance, generation); break;
+
+                default: return ExceptionMessages.InvalidComponentType;
+            }
+
+            computers.FirstOrDefault(x => x.Id == computerId).AddComponent(component);
+            components.Add(component);
+            return string.Format(SuccessMessages.AddedComponent, componentType, id, computerId);
+        }
+
+        public string RemoveComponent(string componentType, int computerId)
+        {
+            DoesComputerExists(computerId);
+
+                var component = components.FirstOrDefault(x => x.GetType().Name == componentType);
+                computers.FirstOrDefault(x => x.Id == computerId)?.RemoveComponent(componentType);
+                components.Remove(component);
+            
+            return string.Format(SuccessMessages.RemovedComponent, componentType, component.Id);
+        }
+
+        public string BuyComputer(int id)
+        {
+            DoesComputerExists(id);
+            var computer = computers.FirstOrDefault(x => x.Id == id);
+            computers.Remove(computer);
+
+            return computer.ToString();
+        }
+
+        public string BuyBest(decimal budget)
+        {
+            var bestPc = computers
+                .Where(x => x.Price <= budget)
+                .OrderByDescending(x => x.OverallPerformance)
+                .FirstOrDefault();
+
+            if (bestPc == null)
+            {
+                return string.Format(ExceptionMessages.CanNotBuyComputer, budget);
+            }
+            computers.Remove(bestPc);
+            return bestPc.ToString();
+        }
+
+        public string GetComputerData(int id)
+        {
+            DoesComputerExists(id);
+
+            var computer = computers.FirstOrDefault(x => x.Id == id);
+
+            return computer.ToString();
+        }
+
+        private void DoesComputerExists(int id)
+        {
+            if (computers.All(x => x.Id != id))
+            {
+                throw new ArgumentException(ExceptionMessages.NotExistingComputerId);
+            }
+        }
+    }
+}

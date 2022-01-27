@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.exe
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.genruntimeconfig.cache

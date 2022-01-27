@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\04. Even Times\bin\Debug\_04.Even_Times.exe.config
+D:\VS Projects C# Advanced\04. Even Times\bin\Debug\_04.Even_Times.exe
+D:\VS Projects C# Advanced\04. Even Times\bin\Debug\_04.Even_Times.pdb
+D:\VS Projects C# Advanced\04. Even Times\obj\Debug\04. Even Times.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\04. Even Times\obj\Debug\04. Even Times.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\04. Even Times\obj\Debug\_04.Even_Times.exe
+D:\VS Projects C# Advanced\04. Even Times\obj\Debug\_04.Even_Times.pdb

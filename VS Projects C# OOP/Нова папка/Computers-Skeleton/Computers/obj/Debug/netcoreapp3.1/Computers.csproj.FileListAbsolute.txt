@@ -1,0 +1,13 @@
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+D:\VS Projects C# OOP\Нова папка\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

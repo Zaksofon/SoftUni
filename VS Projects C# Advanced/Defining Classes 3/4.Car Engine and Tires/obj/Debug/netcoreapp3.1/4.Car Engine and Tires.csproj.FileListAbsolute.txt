@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.exe
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.deps.json
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.runtimeconfig.json
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.dll
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\bin\Debug\netcoreapp3.1\4.Car Engine and Tires.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.dll
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\4.Car Engine and Tires\obj\Debug\netcoreapp3.1\4.Car Engine and Tires.genruntimeconfig.cache

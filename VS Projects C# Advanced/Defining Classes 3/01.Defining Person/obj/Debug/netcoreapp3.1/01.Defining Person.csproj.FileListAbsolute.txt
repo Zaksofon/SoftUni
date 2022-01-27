@@ -1,0 +1,12 @@
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.exe
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.deps.json
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.runtimeconfig.json
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.dll
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\bin\Debug\netcoreapp3.1\01.Defining Person.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.dll
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\01.Defining Person\obj\Debug\netcoreapp3.1\01.Defining Person.genruntimeconfig.cache

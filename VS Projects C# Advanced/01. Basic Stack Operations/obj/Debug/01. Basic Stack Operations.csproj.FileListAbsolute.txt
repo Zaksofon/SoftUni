@@ -1,0 +1,6 @@
+D:\VS Projects C# Advanced\01. Basic Stack Operations\bin\Debug\_01.Basic_Stack_Operations.exe.config
+D:\VS Projects C# Advanced\01. Basic Stack Operations\bin\Debug\_01.Basic_Stack_Operations.exe
+D:\VS Projects C# Advanced\01. Basic Stack Operations\bin\Debug\_01.Basic_Stack_Operations.pdb
+D:\VS Projects C# Advanced\01. Basic Stack Operations\obj\Debug\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\01. Basic Stack Operations\obj\Debug\_01.Basic_Stack_Operations.exe
+D:\VS Projects C# Advanced\01. Basic Stack Operations\obj\Debug\_01.Basic_Stack_Operations.pdb

@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\VS Projects C# Advanced\Exam Preparation\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache

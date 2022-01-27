@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\bin\Debug\_6.Jagged_Array_Manipulator.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\bin\Debug\_6.Jagged_Array_Manipulator.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\bin\Debug\_6.Jagged_Array_Manipulator.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\obj\Debug\06. Jagged Array Manipulator.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\obj\Debug\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\obj\Debug\_6.Jagged_Array_Manipulator.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\6. Jagged Array Manipulator\obj\Debug\_6.Jagged_Array_Manipulator.pdb

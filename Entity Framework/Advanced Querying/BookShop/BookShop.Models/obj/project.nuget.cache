@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxBduxZDkCtGuPvi6qPD6RJTd/Ri54fd8PTeoez3n+cMT5vBCiLse7Bww7WDB0HX/wjz9EpqCamjZQ3V0rRWYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Entity Framework\\Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Христо\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Христо\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

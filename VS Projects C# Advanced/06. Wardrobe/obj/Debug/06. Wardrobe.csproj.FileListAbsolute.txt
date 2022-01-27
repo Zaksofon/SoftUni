@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\06. Wardrobe\bin\Debug\_06.Wardrobe.exe.config
+D:\VS Projects C# Advanced\06. Wardrobe\bin\Debug\_06.Wardrobe.exe
+D:\VS Projects C# Advanced\06. Wardrobe\bin\Debug\_06.Wardrobe.pdb
+D:\VS Projects C# Advanced\06. Wardrobe\obj\Debug\06. Wardrobe.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\06. Wardrobe\obj\Debug\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\06. Wardrobe\obj\Debug\_06.Wardrobe.exe
+D:\VS Projects C# Advanced\06. Wardrobe\obj\Debug\_06.Wardrobe.pdb

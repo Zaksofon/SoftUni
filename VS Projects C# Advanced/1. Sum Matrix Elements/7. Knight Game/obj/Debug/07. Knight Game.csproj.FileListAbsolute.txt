@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\bin\Debug\_7.Knight_Game.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\bin\Debug\_7.Knight_Game.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\bin\Debug\_7.Knight_Game.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\obj\Debug\07. Knight Game.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\obj\Debug\07. Knight Game.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\obj\Debug\_7.Knight_Game.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\7. Knight Game\obj\Debug\_7.Knight_Game.pdb

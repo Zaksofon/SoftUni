@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\3. Primary Diagonal.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\_3.Primary_Diagonal.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\_3.Primary_Diagonal.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\11. Key Revolver\bin\Debug\_11.Key_Revolver.exe.config
+D:\VS Projects C# Advanced\11. Key Revolver\bin\Debug\_11.Key_Revolver.exe
+D:\VS Projects C# Advanced\11. Key Revolver\bin\Debug\_11.Key_Revolver.pdb
+D:\VS Projects C# Advanced\11. Key Revolver\obj\Debug\11. Key Revolver.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\11. Key Revolver\obj\Debug\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\11. Key Revolver\obj\Debug\_11.Key_Revolver.exe
+D:\VS Projects C# Advanced\11. Key Revolver\obj\Debug\_11.Key_Revolver.pdb

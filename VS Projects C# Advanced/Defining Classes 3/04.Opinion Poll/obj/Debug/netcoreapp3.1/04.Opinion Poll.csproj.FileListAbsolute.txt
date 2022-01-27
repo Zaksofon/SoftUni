@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.exe
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.deps.json
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.runtimeconfig.json
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.dll
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.dll
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.genruntimeconfig.cache

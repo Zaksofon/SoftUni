@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+D:\VS Projects C# Advanced\Exam Preparation\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache

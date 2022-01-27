@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13ae6249-fdc8-4a47-8bf3-b16fac92453d": {
+      "ProjectGuid": "13ae6249-fdc8-4a47-8bf3-b16fac92453d",
+      "DisplayName": "02. Warships",
+      "ColorIndex": 0
+    },
+    "db64d5de-f6f4-4761-96ae-5bbbd7d5d468": {
+      "ProjectGuid": "db64d5de-f6f4-4761-96ae-5bbbd7d5d468",
+      "DisplayName": "01. Scheduling",
+      "ColorIndex": 1
+    },
+    "9e4aa52d-ee5c-4115-aec3-2d840010d25f": {
+      "ProjectGuid": "9e4aa52d-ee5c-4115-aec3-2d840010d25f",
+      "DisplayName": "01. Flower Wreaths",
+      "ColorIndex": 2
+    },
+    "9f9bf12c-3568-4aa6-be1c-ecc02cd22bee": {
+      "ProjectGuid": "9f9bf12c-3568-4aa6-be1c-ecc02cd22bee",
+      "DisplayName": "02. Bakery",
+      "ColorIndex": 3
+    },
+    "a0ba744b-4b9e-41eb-a1d6-a31958619de3": {
+      "ProjectGuid": "a0ba744b-4b9e-41eb-a1d6-a31958619de3",
+      "DisplayName": "SkiRental",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

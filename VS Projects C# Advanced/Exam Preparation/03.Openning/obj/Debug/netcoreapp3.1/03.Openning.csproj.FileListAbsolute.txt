@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.exe
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.dll
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\bin\Debug\netcoreapp3.1\03.Openning.pdb
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.dll
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.pdb
+D:\VS Projects C# Advanced\Exam Preparation\03.Openning\obj\Debug\netcoreapp3.1\03.Openning.genruntimeconfig.cache

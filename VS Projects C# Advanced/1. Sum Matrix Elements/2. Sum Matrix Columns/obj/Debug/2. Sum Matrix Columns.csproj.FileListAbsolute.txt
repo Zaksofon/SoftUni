@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\2. Sum Matrix Columns.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\_2.Sum_Matrix_Columns.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\_2.Sum_Matrix_Columns.pdb

@@ -1,0 +1,13 @@
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.exe
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.deps.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.runtimeconfig.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\02. Zoo.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.AssemblyInfo.cs
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\02. Zoo.genruntimeconfig.cache

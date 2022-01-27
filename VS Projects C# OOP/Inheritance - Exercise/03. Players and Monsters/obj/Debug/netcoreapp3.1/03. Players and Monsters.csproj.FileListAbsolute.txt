@@ -1,0 +1,13 @@
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.exe
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.deps.json
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.runtimeconfig.json
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.runtimeconfig.dev.json
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\bin\Debug\netcoreapp3.1\03. Players and Monsters.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.csproj.AssemblyReference.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.AssemblyInfoInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.AssemblyInfo.cs
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.csproj.CoreCompileInputs.cache
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.dll
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.pdb
+D:\VS Projects C# OOP\Inheritance - Exercise\03. Players and Monsters\obj\Debug\netcoreapp3.1\03. Players and Monsters.genruntimeconfig.cache

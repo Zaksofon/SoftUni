@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\10. Crossroads\obj\Debug\10. Crossroads.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\10. Crossroads\obj\Debug\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\10. Crossroads\bin\Debug\_10.Crossroads.exe.config
+D:\VS Projects C# Advanced\10. Crossroads\bin\Debug\_10.Crossroads.exe
+D:\VS Projects C# Advanced\10. Crossroads\bin\Debug\_10.Crossroads.pdb
+D:\VS Projects C# Advanced\10. Crossroads\obj\Debug\_10.Crossroads.exe
+D:\VS Projects C# Advanced\10. Crossroads\obj\Debug\_10.Crossroads.pdb

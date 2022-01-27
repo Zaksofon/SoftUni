@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\07. The V-Logger\bin\Debug\_07.The_V_Logger.exe.config
+D:\VS Projects C# Advanced\07. The V-Logger\bin\Debug\_07.The_V_Logger.exe
+D:\VS Projects C# Advanced\07. The V-Logger\bin\Debug\_07.The_V_Logger.pdb
+D:\VS Projects C# Advanced\07. The V-Logger\obj\Debug\07. The V-Logger.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\07. The V-Logger\obj\Debug\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\07. The V-Logger\obj\Debug\_07.The_V_Logger.exe
+D:\VS Projects C# Advanced\07. The V-Logger\obj\Debug\_07.The_V_Logger.pdb

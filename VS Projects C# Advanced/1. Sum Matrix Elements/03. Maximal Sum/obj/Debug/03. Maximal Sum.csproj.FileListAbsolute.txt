@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\bin\Debug\_03.Maximal_Sum.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\bin\Debug\_03.Maximal_Sum.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\bin\Debug\_03.Maximal_Sum.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\obj\Debug\03. Maximal Sum.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\obj\Debug\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\obj\Debug\_03.Maximal_Sum.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\03. Maximal Sum\obj\Debug\_03.Maximal_Sum.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\Lab Stacks and Queues\bin\Debug\Lab Stacks and Queues.exe.config
+D:\VS Projects C# Advanced\Lab Stacks and Queues\bin\Debug\Lab Stacks and Queues.exe
+D:\VS Projects C# Advanced\Lab Stacks and Queues\bin\Debug\Lab Stacks and Queues.pdb
+D:\VS Projects C# Advanced\Lab Stacks and Queues\obj\Debug\1. Reversed Strings.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\Lab Stacks and Queues\obj\Debug\1. Reversed Strings.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Lab Stacks and Queues\obj\Debug\Lab Stacks and Queues.exe
+D:\VS Projects C# Advanced\Lab Stacks and Queues\obj\Debug\Lab Stacks and Queues.pdb

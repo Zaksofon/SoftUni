@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\bin\Debug\_04.Matrix_Shuffling.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\bin\Debug\_04.Matrix_Shuffling.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\bin\Debug\_04.Matrix_Shuffling.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\obj\Debug\04. Matrix Shuffling.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\obj\Debug\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\obj\Debug\_04.Matrix_Shuffling.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\04. Matrix Shuffling\obj\Debug\_04.Matrix_Shuffling.pdb

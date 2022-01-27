@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.exe
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.deps.json
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.runtimeconfig.json
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.dll
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\bin\Debug\netcoreapp3.1\08.Car Salesman.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.dll
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.pdb
+D:\VS Projects C# Advanced\Defining Classes 3\08.Car Salesman\obj\Debug\netcoreapp3.1\08.Car Salesman.genruntimeconfig.cache

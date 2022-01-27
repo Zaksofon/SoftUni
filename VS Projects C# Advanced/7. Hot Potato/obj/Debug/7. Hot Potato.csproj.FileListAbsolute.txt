@@ -1,0 +1,6 @@
+D:\VS Projects C# Advanced\7. Hot Potato\bin\Debug\_7.Hot_Potato.exe.config
+D:\VS Projects C# Advanced\7. Hot Potato\bin\Debug\_7.Hot_Potato.exe
+D:\VS Projects C# Advanced\7. Hot Potato\bin\Debug\_7.Hot_Potato.pdb
+D:\VS Projects C# Advanced\7. Hot Potato\obj\Debug\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\7. Hot Potato\obj\Debug\_7.Hot_Potato.exe
+D:\VS Projects C# Advanced\7. Hot Potato\obj\Debug\_7.Hot_Potato.pdb

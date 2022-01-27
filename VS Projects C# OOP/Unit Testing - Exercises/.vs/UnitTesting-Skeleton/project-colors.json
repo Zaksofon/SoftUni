@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9675dfb8-e0f7-4f6c-b63a-1083a58c375b": {
+      "ProjectGuid": "9675dfb8-e0f7-4f6c-b63a-1083a58c375b",
+      "DisplayName": "CarManager",
+      "ColorIndex": 0
+    },
+    "e1fb916d-50fb-496b-83f9-bdf2f37ea267": {
+      "ProjectGuid": "e1fb916d-50fb-496b-83f9-bdf2f37ea267",
+      "DisplayName": "CarManager.Tests",
+      "ColorIndex": 1
+    },
+    "5795f810-87d3-4fc9-89b3-61985ee6f92b": {
+      "ProjectGuid": "5795f810-87d3-4fc9-89b3-61985ee6f92b",
+      "DisplayName": "Database.Tests",
+      "ColorIndex": 2
+    },
+    "2ca77e66-6639-40bb-95e7-672d3e22c7dc": {
+      "ProjectGuid": "2ca77e66-6639-40bb-95e7-672d3e22c7dc",
+      "DisplayName": "DatabaseExtended.Tests",
+      "ColorIndex": 3
+    },
+    "07b99ec2-39fc-49d3-b347-8866e73651e3": {
+      "ProjectGuid": "07b99ec2-39fc-49d3-b347-8866e73651e3",
+      "DisplayName": "Database",
+      "ColorIndex": 4
+    },
+    "b06408e4-1e32-4981-aa8f-c32df68d2b0e": {
+      "ProjectGuid": "b06408e4-1e32-4981-aa8f-c32df68d2b0e",
+      "DisplayName": "FightingArena.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

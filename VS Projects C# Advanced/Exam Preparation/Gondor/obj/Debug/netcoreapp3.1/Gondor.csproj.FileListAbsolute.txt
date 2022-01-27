@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.exe
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.dll
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\bin\Debug\netcoreapp3.1\Gondor.pdb
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.dll
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.pdb
+D:\VS Projects C# Advanced\Exam Preparation\Gondor\obj\Debug\netcoreapp3.1\Gondor.genruntimeconfig.cache

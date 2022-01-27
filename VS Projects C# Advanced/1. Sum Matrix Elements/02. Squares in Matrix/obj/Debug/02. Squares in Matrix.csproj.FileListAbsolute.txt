@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\bin\Debug\_02.Squares_in_Matrix.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\bin\Debug\_02.Squares_in_Matrix.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\bin\Debug\_02.Squares_in_Matrix.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\obj\Debug\02. Squares in Matrix.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\obj\Debug\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\obj\Debug\_02.Squares_in_Matrix.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\02. Squares in Matrix\obj\Debug\_02.Squares_in_Matrix.pdb

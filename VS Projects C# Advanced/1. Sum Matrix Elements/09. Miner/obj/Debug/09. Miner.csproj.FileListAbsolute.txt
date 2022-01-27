@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\bin\Debug\_09.Miner.exe.config
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\bin\Debug\_09.Miner.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\bin\Debug\_09.Miner.pdb
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\obj\Debug\09. Miner.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\obj\Debug\09. Miner.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\obj\Debug\_09.Miner.exe
+D:\VS Projects C# Advanced\1. Sum Matrix Elements\09. Miner\obj\Debug\_09.Miner.pdb

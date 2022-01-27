@@ -1,0 +1,7 @@
+D:\VS Projects C# Advanced\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+D:\VS Projects C# Advanced\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+D:\VS Projects C# Advanced\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+D:\VS Projects C# Advanced\4. Matching Brackets\obj\Debug\4. Matching Brackets.csprojAssemblyReference.cache
+D:\VS Projects C# Advanced\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+D:\VS Projects C# Advanced\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

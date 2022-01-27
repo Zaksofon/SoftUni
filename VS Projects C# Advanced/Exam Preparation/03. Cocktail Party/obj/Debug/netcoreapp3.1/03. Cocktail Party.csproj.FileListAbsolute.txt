@@ -1,0 +1,13 @@
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.exe
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.deps.json
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.runtimeconfig.json
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.runtimeconfig.dev.json
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.dll
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.pdb
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.csproj.AssemblyReference.cache
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.AssemblyInfoInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.AssemblyInfo.cs
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.csproj.CoreCompileInputs.cache
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.dll
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.pdb
+D:\VS Projects C# Advanced\Exam Preparation\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.genruntimeconfig.cache
